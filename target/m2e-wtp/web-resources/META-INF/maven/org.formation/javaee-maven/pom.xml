@@ -24,6 +24,7 @@
 			        <configuration>
 			            <server>myserver</server>
 			            <url>http://localhost:8080/manager/text</url> 
+			            <path>/javaee-maven</path>
 			        </configuration>
 		        </plugin>
 	        </plugins>

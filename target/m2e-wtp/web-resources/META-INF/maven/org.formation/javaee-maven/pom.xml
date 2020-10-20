@@ -35,13 +35,10 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>  
     <distributionManagement>
-	      <repository>
-	        <id>releases</id>
-	        <url>https://repository.apache.org/service/local/staging/deploy/maven2</url>
-	    </repository>
-	    <snapshotRepository>
-	        <id>snapshots</id>
-	        <url>https://repository.apache.org/content/repositories/snapshots</url>
-	    </snapshotRepository>
+		<repository>
+		         <id>internal.repo</id>
+		         <name>Internal repo</name>
+		         <url>C:\Apache\apache-tomcat-8.5.58\webapps</url>
+		</repository>
     </distributionManagement>
 </project>

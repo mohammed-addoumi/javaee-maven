@@ -38,7 +38,7 @@ public class LoginServlet extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	RequestDispatcher dispatcher = request.getRequestDispatcher("dashboard.jsp");
-	request.setAttribute("name", request.getParameter("name"));
+	request.setAttribute("name", request.getParameter("username"));
 	dispatcher.forward(request, response);
 	
 	}

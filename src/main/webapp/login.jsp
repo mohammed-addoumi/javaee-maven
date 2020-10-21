@@ -9,8 +9,8 @@
 <body>
 <h1>Welcome to login.jsp</h1>
 <form action="loginServlet" method="post">
-username <input type="text" name="username"><br>
-password <input type="password" name="password"><br>
+username <input type="text" name="username"><br><br>
+password <input type="password" name="password"><br><br>
 <input type="submit" value="connexion">
 </form>
 </body>

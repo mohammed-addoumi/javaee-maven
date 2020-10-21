@@ -2,5 +2,5 @@ projectKey=org.formation:javaee-maven
 serverUrl=http://localhost:9000
 serverVersion=8.5.0.37579
 dashboardUrl=http://localhost:9000/dashboard?id=org.formation%3Ajavaee-maven
-ceTaskId=AXVLAhP1Jvhzx_ryxzEW
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXVLAhP1Jvhzx_ryxzEW
+ceTaskId=AXVLW3jq1RVLvwIrLsoF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXVLW3jq1RVLvwIrLsoF
